@@ -1,0 +1,114 @@
+body
+{
+  background-image: url("http://www.hd-freeimages.com/uploads/large/hd-photography-wallpapers/free-road-dark-city-photography-hd-wallpapers-download.jpg");
+  background-size: auto 1150px;
+}
+   
+h1
+{  
+
+font-family: "Raleway", sans-serif;
+margin-left: 2px;
+color: #fff;
+}
+
+h3
+{
+  color: #fff;
+}
+
+h4
+{
+  color: #fff;
+}
+
+
+p
+{
+  margin-left: 2px;
+  color: #fff;
+}
+
+.box
+{
+	box-shadow: 1px 1px 20px #fff;
+	width: 50%;
+}
+
+.al
+{
+	text-align: center;
+}
+
+span
+{   color:#fff; 
+	background-color: #8b0000;
+	font-size: 15px;
+}
+
+.und
+{
+   text-decoration: underline;
+   font-size: 30px;
+}
+
+.m
+{ 
+
+  margin-left: 27%;
+  float: right;
+  margin-top:10px;  
+}
+
+.fl
+{
+	float: left;
+	width: 50%;
+	text-align: justify;
+}
+
+
+.container 
+{     
+      margin-left: 5px;
+      padding:5px;
+      border:1px solid #cccccc;
+      padding-bottom: 30px;
+      border-width: 3px;
+      border-color: #000000;
+
+
+       }
+
+
+       .flr
+       {
+       	float:right;
+       	margin-left: 60%;
+
+
+       }
+
+       a
+       {
+       	font-size: 20px;
+       	color: #adff2f;
+       }
+
+       a:hover,a:active 
+       {
+
+          color: red;
+
+       }
+
+  .
+
+
+
+
+
+
+
+
+
